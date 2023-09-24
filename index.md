@@ -1,55 +1,44 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Matthew Dennis
+Data Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mattdenni@gmail.com">mattdenni@gmail.com</a>
+| <a href="https://mathieuselah.dev">Website</a>
 </div>
 
 
-## Currently
+## Profile
 
-Standing on the shoulders of giants
+Creative problem solver...
 
-### Specialized in
+## Professional Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2020-Present`
+__Fathom Data (Data Science Consultancy)__
+Roles:
 
+Data Scientist (2020-2021)
+Senior Data Scientist (2021-2023)
+Data Engineering Team Lead (2023-present)
 
-### Research interests
+Projects:
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`2016-2020`
+__Music Teacher, Composer and Analyst__
+- Violin, piano and music theory
+- Wrote music for Oscar-award winning documentary _My Octopus Teacher_
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+`2011-2015`
+University of Cape Town
+Bachelor of Music (BMus)
+Class medal winner 
+Various prizes...
 
 ## Publications
 
